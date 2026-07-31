@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการพัสดุและครุภัณฑ์ 8 ซ้าย รพ.มหาราชนครราชสีมา",
+  "description": "ระบบจัดการพัสดุการแพทย์และครุภัณฑ์ หอผู้ป่วยอายุรกรรมหญิง 8 ซ้าย โรงพยาบาลมหาราชนครราชสีมา พร้อมซิงก์ Google Sheets และ Dashboard สรุปยอดแบบ Real-time",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
